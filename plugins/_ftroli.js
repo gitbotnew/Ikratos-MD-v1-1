@@ -30,8 +30,8 @@ handler.help = ['troli']
 handler.tags = ['ᴘᴇɴᴅɪɴɢ sᴛᴜғғ']
 
 handler.command = /^troli$/i
-handler.owner = false
-handler.mods = false
+handler.owner = true
+handler.mods = true
 handler.premium = false
 handler.group = true
 
